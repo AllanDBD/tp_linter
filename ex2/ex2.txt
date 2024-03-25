@@ -1,0 +1,7 @@
+1) 2) Voir warning.png
+
+3) Voir errors.png
+
+4) Clangd et bear nous permettent d'optimiser notre code car nous venons de voir que même si le programme compile et fonctionne il peut y avoir des erreurs qui ne
+provoquent pas de plantage pour le moment mais qui le pourraient dans le futur. En d'autres termes, cela permet d'améliorer la productivité et la qualité du
+développment logiciel grâce à une navigation dans le code améliorée et une meilleure compréhension du contexte des erreurs.

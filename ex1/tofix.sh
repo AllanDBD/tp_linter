@@ -3,30 +3,30 @@
 
 # 1
 
-echo "The value of variable X is: $X"
+echo "The value of variable X is: $1"
 
 # 2
 
-echho "Hello, World!"
+echo "Hello, World!"
 
 # 3
-
-if [ $num -eq 10 ; then
+num=10
+if  [ $num -eq 10 ] ;then
    echo "Number is 10"
 fi
 
 # 4
 
-echo "Hello, World!'
+echo "Hello, World!"
 
 # 5
 
-for i in (seq 1 1 16)
+for i in {1..16}
 do
-	echo "$i
+	echo "$i"
 done
 
 # 6
 
 Y=8
-echo 'Value of Y is : $Y' 
+echo "Value of Y is : $Y"

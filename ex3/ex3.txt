@@ -1,0 +1,18 @@
+1)
+a) I cannot provide an exhaustive list of all the cities and towns in Essonne, as there are over 60 municipalities in this department located in the Île-de-France 
+region of France. Here is a list of some of the largest and most well-known cities and towns in Essonne:
+1. Evreux-les-Eaux
+2. Palaiseau
+3. Longjumeau
+4. Montgeron
+5. Draveil
+6. Corbeilles-essonnes
+7. Villebon-sur-Yvette
+8. Épinay-sur-Orge
+9. Gif-sur-Yvette
+10. Les Ulmes (now part of Palaiseau)
+
+Il ne peut pas faire une liste exhaustive de toutes les villes d'Essonne car il y en a trop pour les lister.
+
+b) Le problème de ce prompt est qu'il manque d'information pour décripter le code, il faudrait par exemple rajouter une clé de décriptage.
+La réponse ne peut pas être exacte avec le peu d'information qu'il possède.
